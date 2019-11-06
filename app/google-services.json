@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "601222079191",
+    "firebase_url": "https://ftc-scouter-10923.firebaseio.com",
+    "project_id": "ftc-scouter-10923",
+    "storage_bucket": "ftc-scouter-10923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601222079191:android:6784083e1e9dff79598692",
+        "android_client_info": {
+          "package_name": "com.brokenaxles.ftcteamscouter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601222079191-6mto7lo0jq11n2cuu1ifqm0urf944ieb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brokenaxles.ftcteamscouter",
+            "certificate_hash": "3896ec8a59c95b498d55964c5e8faa472e8b83b1"
+          }
+        },
+        {
+          "client_id": "601222079191-atekcf5mgc6h2omgtnmlop521g8rh2aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpwAXhQYBHUJJOJrtFB9i_-TVUwGeWO_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601222079191-atekcf5mgc6h2omgtnmlop521g8rh2aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

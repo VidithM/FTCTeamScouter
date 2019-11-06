@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000021</color>
+    <color name="colorPrimaryDark">#000011</color>
+    <color name="colorAccent">#1b2bd8</color>
+    <color name="textColor">#aaaaaa</color>
+    <color name="perfsIn">#00aa00</color>
+    <color name="somePerfsMissing">#fa6000</color>
+    <color name="allPerfsMissing">#ff0000</color>
+    <color name="yellow">#eeee00</color>
+</resources>
